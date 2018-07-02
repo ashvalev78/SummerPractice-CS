@@ -1,0 +1,9 @@
+c:\users\mi\source\repos\6\6\bin\Debug\6.exe.config
+c:\users\mi\source\repos\6\6\bin\Debug\6.exe
+c:\users\mi\source\repos\6\6\bin\Debug\6.pdb
+c:\users\mi\source\repos\6\6\obj\Debug\_6.Form1.resources
+c:\users\mi\source\repos\6\6\obj\Debug\_6.Properties.Resources.resources
+c:\users\mi\source\repos\6\6\obj\Debug\6.csproj.GenerateResource.cache
+c:\users\mi\source\repos\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+c:\users\mi\source\repos\6\6\obj\Debug\6.exe
+c:\users\mi\source\repos\6\6\obj\Debug\6.pdb

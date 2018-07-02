@@ -1,0 +1,10 @@
+c:\users\mi\source\repos\5.3\5.3\bin\Debug\5.3.exe.config
+c:\users\mi\source\repos\5.3\5.3\bin\Debug\5.3.exe
+c:\users\mi\source\repos\5.3\5.3\bin\Debug\5.3.pdb
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\5.3.csprojAssemblyReference.cache
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\_5._3.Form1.resources
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\_5._3.Properties.Resources.resources
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\5.3.csproj.GenerateResource.cache
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\5.3.csproj.CoreCompileInputs.cache
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\5.3.exe
+c:\users\mi\source\repos\5.3\5.3\obj\Debug\5.3.pdb
